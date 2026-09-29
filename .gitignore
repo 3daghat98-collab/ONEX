@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-data/pixonpanel_secret.key
-data/sing-box/
-*.crt
-*.key
