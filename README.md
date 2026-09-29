@@ -1,46 +1,16 @@
-# 🚀 ONEX 1.3.9
+🚀 ONEX Panel v1.3.9
 
-<p align="center">
-  <img src="onex-logo-3d.png" alt="ONEX Logo" width="300">
-</p>
+یک پنل حرفه‌ای و قدرتمند برای مدیریت و راه‌اندازی کانفیگ‌های V2Ray/Xray با تمرکز روی سرعت، پایداری و مدیریت آسان.
 
-<p align="center">
-  <strong>Advanced Self-Hosted Management Panel</strong>
-</p>
+⚡ کانفیگ‌ها با قدرت و سرعت بالا برای استفاده روزمره و سرویس‌های مختلف بهینه شده‌اند.
+🛠️ پنل دارای رابط کاربری حرفه‌ای، مدیریت ساده و امکانات متنوع برای مدیریت کانفیگ‌هاست.
 
-<p align="center">
-  <a href="README.md">🇮🇷 فارسی</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="README.en.md">🇬🇧 English</a>
-</p>
+📌 جهت حمایت از پروژه:
+⭐ ریپو را Star کنید
+🍴 پروژه را Fork کنید
+📢 پروژه را با دوستان خود به اشتراک بگذارید
 
-<p align="center">
-  <a href="https://github.com/HajMeTiV2/ONEX">⭐ Star</a> •
-  <a href="https://github.com/HajMeTiV2/ONEX/fork">🍴 Fork</a> •
-  <a href="https://t.me/V2rayTun0">📢 Telegram</a> •
-  <a href="https://t.me/Mehtif">👨‍💻 Developer</a>
-</p>
+💰 جهت حمایت مالی و دنبال‌کردن اخبار پروژه، عضو کانال تلگرام شوید:
+@V2rayTun0
 
----
-
-## 🌐 Choose your language
-
-### 🇮🇷 فارسی
-برای مشاهده مستندات کامل فارسی، روی گزینه زیر بزنید:
-
-**[📖 مشاهده README فارسی](README.fa.md)**
-
-### 🇬🇧 English
-For the complete English documentation:
-
-**[📖 Open English README](README.en.md)**
-
----
-
-### ❤️ Support ONEX
-
-⭐ Star the repository • 🍴 Fork the project • 📢 Join the Telegram channel
-
-**Developer:** [@Mehtif](https://t.me/Mehtif)  
-**Telegram:** [@V2rayTun0](https://t.me/V2rayTun0)
-
-<p align="center"><strong>ONEX — Fast · Secure · Stable</strong></p>
+👨‍💻 سازنده پروژه: @Mehtif
